@@ -5,7 +5,7 @@ import requests
 import psycopg2
 import logging
 
-API_KEY = 'e7dc703969cf66a4d91a01eca827e725'
+API_KEY = 'my Api key'
 CITIES = ["Frankfurt", "Berlin", "Hamburg", "Munich", "Cologne"]
 
 def fetch_weather_data():
