@@ -18,7 +18,16 @@ An automated data pipeline that fetches live weather data from the OpenWeatherMa
 City: Frankfurt, Berlin, Hamburg, Munich, Cologne
 
 # Data Collected
-ColumnDescriptioncityCity namedateTimestamp of the reading (UTC)temperatureTemperature in CelsiushumidityHumidity percentagepressureAtmospheric pressure (hPa)wind_speedWind speed in m/sweather_descriptionWeather condition description
+
+| Column | Description |
+|---|---|
+| city | City name |
+| date | Timestamp of the reading (UTC) |
+| temperature | Temperature in Celsius |
+| humidity | Humidity percentage |
+| pressure | Atmospheric pressure (hPa) |
+| wind_speed | Wind speed in m/s |
+| weather_description | Weather condition description |
 
 # Setup Instructions
 Prerequisites
